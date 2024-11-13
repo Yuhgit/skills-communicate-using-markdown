@@ -4,3 +4,5 @@
 #### h4ヘッダー
 ##### h5ヘッダー
 ###### h6ヘッダー
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
